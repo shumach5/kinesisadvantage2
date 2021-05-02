@@ -1,1 +1,1 @@
-# kinesisadvantage2
+# Kinesis advantage 2 Key mapping settings.
